@@ -673,8 +673,8 @@ Examples:
 
 def main():
     # Configuration - REPLACE WITH YOUR ACTUAL TOKENS
-    TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', '7872415752:AAFOl5Jq3ofWgPJN_SNU6Noe0unHhE_2pdg')
-    GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', "AIzaSyADtQ64jvn_uo6jQxa2R9fBmFuCE4wcld8")
+    TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', 'Your_telegram_bot_token')
+    GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', "Your_api_key")
     
     # Validate tokens
     if TELEGRAM_TOKEN == "YOUR_TELEGRAM_BOT_TOKEN" or GOOGLE_API_KEY == "YOUR_GOOGLE_API_KEY":
