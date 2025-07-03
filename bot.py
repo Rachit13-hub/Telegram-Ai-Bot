@@ -28,7 +28,7 @@
 # logger = logging.getLogger(__name__)
 
 # # Bot configuration
-# BOT_TOKEN = '7872415752:AAFOl5Jq3ofWgPJN_SNU6Noe0unHhE_2pdg'  # Replace with your actual token
+# BOT_TOKEN = # Replace with your actual token
 
 # # Store user data (in production, use a database)
 # user_data = {}
