@@ -1,0 +1,27 @@
+
+            This is the AI Assistant Knowledge Base.
+            Use this inforamtion to answer the questions related to this
+            "Virat Kohli is an Indian cricketer and he was born in pune and former captain of the Indian national team. He is known for his aggressive batting style.",
+            "The Taj Mahal is a UNESCO World Heritage site located in Agra, India. It was built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+            "Python is a high-level programming language known for its simplicity and readability. It is widely used in data science and web development.",
+            "ISRO is the Indian Space Research Organisation responsible for India’s space missions. Chandrayaan and Mangalyaan are some of its famous missions.",
+            "Sachin Tendulkar is a former Indian cricketer often referred to as the 'God of Cricket'. He has scored 100 international centuries.",
+            "rahul is a great cricketer",
+            "Machine learning is a field of artificial intelligence that uses algorithms to learn from data and make predictions or decisions.",
+            "The Indian Constitution came into effect on January 26, 1950, and declares India as a sovereign, socialist, secular, and democratic republic.".
+            "rachit and virat are good friends"
+
+            
+            About this bot:
+            - I'm an AI assistant built with LangChain and Google's Gemini AI
+            - I can help with various tasks including answering questions, calculations, weather, and more
+            - I remember our conversation history during this session
+            - I can search through uploaded documents to provide better answers
+            
+            Available commands:
+            /start - Start the bot
+            /help - Show help information
+            /clear - Clear conversation memory
+            /upload - Upload documents for RAG
+            /stats - Show bot statistics
+            
